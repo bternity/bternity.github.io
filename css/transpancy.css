@@ -17,3 +17,96 @@
 /* 以下代表透明度为0.7 */
 background: rgba(255,255,255, .0);
 }
+
+
+/* 风车转起来： 文章页H1-H6图标样式效果 */
+h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
+  -webkit-animation: ccc 1.6s linear infinite ;
+  animation: ccc 1.6s linear infinite ;
+}
+@-webkit-keyframes ccc {
+  0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg)
+  }
+  to {
+      -webkit-transform: rotate(-1turn);
+      transform: rotate(-1turn)
+  }
+}
+@keyframes ccc {
+  0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg)
+  }
+  to {
+      -webkit-transform: rotate(-1turn);
+      transform: rotate(-1turn)
+  }
+}
+
+#content-inner.layout h1::before {
+  color: #ef50a8 ;
+  margin-left: -1.55rem;
+  font-size: 1.3rem;
+  margin-top: -0.23rem;
+}
+#content-inner.layout h2::before {
+  color: #fb7061 ;
+  margin-left: -1.35rem;
+  font-size: 1.1rem;
+  margin-top: -0.12rem;
+}
+#content-inner.layout h3::before {
+  color: #ffbf00 ;
+  margin-left: -1.22rem;
+  font-size: 0.95rem;
+  margin-top: -0.09rem;
+}
+#content-inner.layout h4::before {
+  color: #a9e000 ;
+  margin-left: -1.05rem;
+  font-size: 0.8rem;
+  margin-top: -0.09rem;
+}
+#content-inner.layout h5::before {
+  color: #57c850 ;
+  margin-left: -0.9rem;
+  font-size: 0.7rem;
+  margin-top: 0.0rem;
+}
+#content-inner.layout h6::before {
+  color: #5ec1e0 ;
+  margin-left: -0.9rem;
+  font-size: 0.66rem;
+  margin-top: 0.0rem;
+}
+
+/* 标题居中 */
+#nav-right{
+  flex:1 1 auto;
+  justify-content: flex-end;
+  margin-left: auto;
+  display: flex;
+  flex-wrap:nowrap;
+}
+
+#nav *::after{
+  background-color: transparent!important;
+}
+
+.menus_item_child li:not(#sidebar-menus li){
+  float: left;
+  border-radius: 6px!important;
+  -webkit-border-radius: 6px!important;
+  -moz-border-radius: 6px!important;
+  -ms-border-radius: 6px!important;
+  -o-border-radius: 6px!important;
+}
+.menus_item_child:not(#sidebar-menus ul){
+/*
+  left:calc(-150%)!important;这是估算值，为了保持元素居中的，如果不合适可以自己调
+改为：*/
+left:50%;
+translate:-50%;
+}
