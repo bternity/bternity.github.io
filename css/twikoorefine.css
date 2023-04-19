@@ -60,7 +60,7 @@
   
   /* 浅色模式颜色 */
   [data-theme=light] {
-    --cxl2020mc-border-color: #e3e8f7;
+    
     --cxl2020mc-card-bg: #fff;
     --cxl2020mc-card-border: #e3e8f7;
     --style-border-always: 1px solid var(--cxl2020mc-card-border);
