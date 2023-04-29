@@ -291,20 +291,6 @@
   </url>
   
   <url>
-    <loc>https://seekingflow.cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2023-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://seekingflow.cn/tags/%E8%82%A1%E7%A5%A8%E9%A2%84%E6%B5%8B/</loc>
-    <lastmod>2023-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://seekingflow.cn/tags/python/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -313,6 +299,20 @@
   
   <url>
     <loc>https://seekingflow.cn/tags/%E6%96%87%E6%9C%AC%E6%8F%90%E5%8F%96/</loc>
+    <lastmod>2023-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://seekingflow.cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2023-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://seekingflow.cn/tags/%E8%82%A1%E7%A5%A8%E9%A2%84%E6%B5%8B/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -340,6 +340,13 @@
   </url>
   
   <url>
+    <loc>https://seekingflow.cn/tags/C/</loc>
+    <lastmod>2023-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://seekingflow.cn/tags/%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -348,13 +355,6 @@
   
   <url>
     <loc>https://seekingflow.cn/tags/%E7%BA%A2%E6%A5%BC%E6%A2%A6/</loc>
-    <lastmod>2023-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://seekingflow.cn/tags/C/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -377,7 +377,7 @@
   </url>
   
   <url>
-    <loc>https://seekingflow.cn/categories/%E6%96%B9%E6%B3%95/%E6%95%B0%E5%AD%A6%E6%B1%82%E8%A7%A3/</loc>
+    <loc>https://seekingflow.cn/categories/%E6%96%B9%E6%B3%95/PDF%E6%96%87%E6%9C%AC%E6%8F%90%E5%8F%96/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -391,14 +391,7 @@
   </url>
   
   <url>
-    <loc>https://seekingflow.cn/categories/%E6%96%B9%E6%B3%95/PDF%E6%96%87%E6%9C%AC%E6%8F%90%E5%8F%96/</loc>
-    <lastmod>2023-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://seekingflow.cn/categories/%E8%A7%82%E5%BD%B1/</loc>
+    <loc>https://seekingflow.cn/categories/%E6%96%B9%E6%B3%95/%E6%95%B0%E5%AD%A6%E6%B1%82%E8%A7%A3/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -406,6 +399,13 @@
   
   <url>
     <loc>https://seekingflow.cn/categories/%E7%90%86%E8%AE%BA/</loc>
+    <lastmod>2023-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://seekingflow.cn/categories/%E8%A7%82%E5%BD%B1/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
