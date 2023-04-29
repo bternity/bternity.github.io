@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://seekingflow.cn/photography/Character/%E5%B0%8F%E5%BE%BD/index.html</loc>
+    <loc>https://seekingflow.cn/photography/Scenery/%E5%8C%97%E4%BA%AC%E5%87%A4%E5%87%B0%E5%B1%B1%E4%B9%8B%E6%97%85/index.html</loc>
     
     <lastmod>2023-04-29</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://seekingflow.cn/photography/Scenery/%E5%8C%97%E4%BA%AC%E5%87%A4%E5%87%B0%E5%B1%B1%E4%B9%8B%E6%97%85/index.html</loc>
+    <loc>https://seekingflow.cn/photography/Character/%E5%B0%8F%E5%BE%BD/index.html</loc>
     
     <lastmod>2023-04-29</lastmod>
     
@@ -340,13 +340,6 @@
   </url>
   
   <url>
-    <loc>https://seekingflow.cn/tags/C/</loc>
-    <lastmod>2023-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://seekingflow.cn/tags/%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -355,6 +348,13 @@
   
   <url>
     <loc>https://seekingflow.cn/tags/%E7%BA%A2%E6%A5%BC%E6%A2%A6/</loc>
+    <lastmod>2023-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://seekingflow.cn/tags/C/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -384,14 +384,14 @@
   </url>
   
   <url>
-    <loc>https://seekingflow.cn/categories/%E7%90%86%E8%AE%BA/</loc>
+    <loc>https://seekingflow.cn/categories/%E6%96%B9%E6%B3%95/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://seekingflow.cn/categories/%E6%96%B9%E6%B3%95/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://seekingflow.cn/categories/%E6%96%B9%E6%B3%95/PDF%E6%96%87%E6%9C%AC%E6%8F%90%E5%8F%96/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -405,7 +405,7 @@
   </url>
   
   <url>
-    <loc>https://seekingflow.cn/categories/%E6%96%B9%E6%B3%95/PDF%E6%96%87%E6%9C%AC%E6%8F%90%E5%8F%96/</loc>
+    <loc>https://seekingflow.cn/categories/%E7%90%86%E8%AE%BA/</loc>
     <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
