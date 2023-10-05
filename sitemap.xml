@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://seekingflow.cn/photography/Scenery/%E5%8A%A8%E7%89%A9%E5%9B%AD/index.html</loc>
+    
+    <lastmod>2023-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://seekingflow.cn/photography/Scenery/index.html</loc>
     
     <lastmod>2023-10-05</lastmod>
@@ -272,15 +281,6 @@
   </url>
   
   <url>
-    <loc>https://seekingflow.cn/photography/Scenery/%E5%8A%A8%E7%89%A9%E5%9B%AD/index.html</loc>
-    
-    <lastmod>2023-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://seekingflow.cn/photography/Character/%E5%A3%B0%E5%AD%A6%E6%89%80%E5%B0%8F%E5%A7%90%E5%A7%90/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
@@ -424,6 +424,13 @@
   </url>
   
   <url>
+    <loc>https://seekingflow.cn/tags/C/</loc>
+    <lastmod>2023-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://seekingflow.cn/tags/%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -432,13 +439,6 @@
   
   <url>
     <loc>https://seekingflow.cn/tags/%E7%BA%A2%E6%A5%BC%E6%A2%A6/</loc>
-    <lastmod>2023-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://seekingflow.cn/tags/C/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -489,14 +489,14 @@
   </url>
   
   <url>
-    <loc>https://seekingflow.cn/categories/%E8%A7%82%E5%BD%B1/</loc>
+    <loc>https://seekingflow.cn/categories/%E7%90%86%E8%AE%BA/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://seekingflow.cn/categories/%E7%90%86%E8%AE%BA/</loc>
+    <loc>https://seekingflow.cn/categories/%E8%A7%82%E5%BD%B1/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
